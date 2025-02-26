@@ -4,6 +4,8 @@ Check also our [YouTube](https://www.youtube.com/@bloxylabs "YouTube") channel f
 
 If you had fun with the projects, please consider giving us a Super Thanks on YouTube or buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee") ☕.
 
+![Image](https://github.com/user-attachments/assets/17f229f1-0bb5-4b50-925c-797a9aa23661)
+
 <h3><u>The basic code for the ESP32 T-Display Crypto Ticker</u></h3>
 
 ```
